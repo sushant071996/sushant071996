@@ -1,16 +1,19 @@
-### Hi there 👋
+#### Hi there 👋
 
-<!--
-**sushant071996/sushant071996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Batchelor of Enginerring(B.E) graduate of 2017 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
-Here are some ideas to get you started:
+I am working as a Software Developer in Mindgate Solution PVT Ltd.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
+
+Things I'm good at 🔥
+Languages: Python, SQL, HTML, CSS, JavaScript, Java.
+
+Libraries,FrameWork & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seaborn,Flask.
+
+Data Analysis: Exploratory Data Analysis, Image Processing(OCR), Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
+
+How to reach me 📱
+Sushant Borade
+(Mobile No = 9773535331)
+(Email Id = sushant.9196@gmail.com)
