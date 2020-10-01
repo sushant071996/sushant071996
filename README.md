@@ -17,5 +17,7 @@ Data Analysis: Exploratory Data Analysis, Image Processing(OCR), Ensemble Method
 How to reach me 📱
 
 Sushant Borade
+
 (Mobile No = 9773535331)
+
 (Email Id = sushant.9196@gmail.com)
