@@ -14,6 +14,7 @@ Libraries,FrameWork & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,Seab
 Data Analysis: Exploratory Data Analysis, Image Processing(OCR), Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
 
 How to reach me 📱
+
 Sushant Borade
 (Mobile No = 9773535331)
 (Email Id = sushant.9196@gmail.com)
