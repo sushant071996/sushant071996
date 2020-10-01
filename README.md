@@ -10,6 +10,8 @@ Things I'm good at 🔥
 
 Languages: Python, SQL, HTML, CSS, JavaScript, Java.
 
+Visualization Tool : Tableau
+
 Libraries,FrameWork,Server & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Flask, Heroku.
 
 Data Analysis: Exploratory Data Analysis, Image Processing(OCR), Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
