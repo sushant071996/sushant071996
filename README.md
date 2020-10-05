@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I’m a Batchelor of Enginerring(B.E) graduate of 2017 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I’m a Batchelor of Enginerring(B.E) graduate of 2017 batch. I come with an extensive experience of working with different technologies including Java(SpringMVC),Web Development, Data Science, Machine Learning and Deep Learning.
 
 I am working as a Software Developer in Mindgate Solution PVT Ltd.
 
